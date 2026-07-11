@@ -1,7 +1,9 @@
 # TaskFlow API Reference  
-Base URL: https://api.taskflow.io/v1 
 
-Authentication: Bearer token in Authorization header  --- 
+Base URL: <https://api.taskflow.io/v1>
+
+Authentication: Bearer token in Authorization header  ---
+
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |
 | title | string | Yes | Task title (max 255 characters) |
@@ -9,7 +11,8 @@ Authentication: Bearer token in Authorization header  ---
 | priority | string | No | low, medium, or high. Default: medium |
 | assignee_id | integer | No | User ID of the assignee |
   
-### Example request 
+## Example request
+
 ```bash
 curl -X POST https://api.taskflow.io/v1/tasks \
   -H 'Authorization: Bearer YOUR_TOKEN' \
@@ -22,7 +25,8 @@ curl -X POST https://api.taskflow.io/v1/tasks \
   }'
 ```
   
-### Example response (201 Created) 
+## Example response (201 Created)
+
 ```json
 {
   "id": 1024,
@@ -35,7 +39,8 @@ curl -X POST https://api.taskflow.io/v1/tasks \
 }
 ```
   
-### Error responses 
+## Error responses
+
 | Status | Code | Description |
 | --- | --- | --- |
 | 400 | invalid_field | A required field is missing or malformed |
