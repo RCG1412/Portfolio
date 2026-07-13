@@ -1,9 +1,10 @@
 # Documentation request
 
 ## What needs to be documented?
-<!-- Describe the feature, API, or process that needs docs --> 
+<!-- Describe the feature, API, or process that needs docs -->
 
 ## Who is the audience?
+
 [ ] End users
 [ ] Developers / API consumers
 [ ] Internal team
@@ -12,6 +13,6 @@
 
 ## Links to relevant code or PRs
 
-## Existing documentation to update (if any) 
+## Existing documentation to update (if any)
 
 ## Additional context
