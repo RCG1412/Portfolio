@@ -1,6 +1,6 @@
 # Rohit Gupta — Technical Writer
 
- **About me**
+## About me
 
  I have spent more than 15 years building and leading documentation for software and technology products, and I am currently a Senior Technical Writer at FIS in Pune, where I own end to end documentation for fintech products across sprint and release cycles.
 
@@ -10,25 +10,31 @@ Earlier, as Project Lead at L&T Technology Services, I led a team of technical w
 
 My background also includes structured, topic-based authoring in DITA XML and docs-as-code workflows using Git, which I use to build reusable content and support scalable documentation architecture rather than one-off deliverables. This spans user guides, configuration references, and API documentation. I work directly  from  Agile  user  stories  and  technical  specifications  to  plan  and  deliver  sprint-aligned documentation, and I have used AI-assisted tools for terminology and glossary development as part of a broader push toward more consistent, AI-ready content.
 
-**What I write:** 
-- API references, 
-- developer guides, 
-- SDK docs, 
-- release notes, 
+## What I write
+
+- API references,
+- developer guides
+- SDK docs
+- release notes
 - onboarding tutorials
 - installation guides
   
-**TOOLS, STANDARDS & PLATFORMS** 
-- VS Code, 
-- GitHub, 
-Markdown, 
-PostmanOpenAPI/Swagger, 
-Confluence, 
-CXone (formerly MindTouch)
-Madcap Flare
-Robohelp
+## Tools, Standards & Platforms
 
-**Samples:**
+- VS Code
+- GitHub
+- Markdown
+- PostmanOpenAPI/Swagger
+- Confluence
+- CXone (formerly MindTouch)
+- Madcap Flare
+- Robohelp
+- Framemaker
+- CXone (formerly MindTouch)
+
+## Samples
+
+My doc samples:
 
 - [API Reference](./api-docs/sample-api.md)
 - [Getting Started Guide](./product-docs/getting-started.md)
