@@ -23,7 +23,7 @@ jobs:
         run: npm install -g markdownlint-cli
 
       - name: Lint Markdown Files
-        run: markdownlint "**/*.md" --ignore node_modules
+        run: markdownlint "**/*.md" --ignore node_modules --config .markdownlintrc.json
 
   build:
     runs-on: ubuntu-latest
